@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Getting to know Jest",
   "main": "index.js",
-  "dependencies": {
-    "jest": "^24.8.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "jest"
